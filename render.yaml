@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ysta-yuki-youtube-slim
+    name: sugar-conan.onrender.com
     env: python
     region: Oregon
     plan: free
